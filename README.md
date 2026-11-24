@@ -8,7 +8,7 @@
 `d$$'     ,$P"'   .    $$$   About Me
  $$P      d$'     ,    $$P   · hi! i'm beth. i'm an e-commerce web dev & cybersecurity student.
  $$:      $$.   -    ,d$$'   · in my free time, i love music production and taking road trips to the middle of nowhere.
- $$;      Y$b._   _,d$P'     ·
+ $$;      Y$b._   _,d$P'     · for business and collaborative inquiries, reach me at contact@bethle.net. 
  Y$$.    `.`"Y$$$$P"'        Interests
   `$$b      "-.__            · Kernel Security & Hardware Attestation (TPM 2.0)
    `Y$$                      · Systems & Low-Level Programming (C / C++)
